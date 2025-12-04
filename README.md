@@ -3,7 +3,7 @@ Marvellous Chat Messenger
 
     Project Type : Java Console Application
     Modules : ChatServerX.java, ChatClientX.java
-    Author : Sakshi Pankaj Borhade
+    Author : Divya Santosh Date
 
 Project Description:
 ------------------------------------------------------------------
